@@ -93,3 +93,11 @@ The system allows users to convert long URLs into shorter, more shareable links 
 - Users can have multiple API_Keys (1:N)
 - Premium Users have Custom_Domains (1:N)
 - Teams share Links through Access_Control (M:N)
+
+---
+### ERD
+
+
+![User Subscription-2026-03-23-210338](https://github.com/user-attachments/assets/f7a1f9eb-e0a9-46df-a90b-8aa30c112627)
+
+
